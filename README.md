@@ -1,9 +1,10 @@
 # Tomato-Disease-Prediction
 
-#### What is transfer learning?
+Used Transfer Learning to create a model (VGG19) using Tensorflow.
+
+### What is transfer learning?
 Transfer learning (TL) is a machine learning (ML) technique that involves reusing a pre-trained model to perform a new, related task. The model's knowledge from the previous task is then applied to the new model to improve learning in the target domain.
 
-Used Transfer Learning to create a model (VGG19) using Tensorflow.
 
 VGG-19, also known as VGGNet-19, is a 19-layer deep convolutional neural network (CNN) model used for large-scale image recognition. The model's name refers to the number of convolutional layers it has.
 
